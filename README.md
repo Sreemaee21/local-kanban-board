@@ -8,10 +8,8 @@ This project is a local implementation of a Kanban board inspired by Trello, des
 - **Color Customization**: Assign distinct colors to tasks based on their category or role, making it easy to visually differentiate between various types of work.  
 - **Drag-and-Drop Functionality**: Easily move tasks between different stages of completion (e.g., To Do, In Progress, Done) using intuitive drag-and-drop interactions.  
 - **Date Tracking**: Automatically record the date when tasks are added, helping to keep track of deadlines and project timelines.  
-- **Future Enhancements**: Potential integration of a local small parameter language model (LLM) to summarize tasks and provide updates for stand-up meetings, enhancing productivity and communication.  
+- **Future Enhancements**: Potential integration of a local small parameter language model (LLM) to summarize tasks weekly, enhancing productivity and accountability.  
 
-## Purpose  
-This Kanban board is tailored to support my journey as a master's student and research engineer, providing a structured way to manage my workload and learning objectives. By visualizing tasks and their progress, I aim to improve my time management skills and ensure that I stay on track with my academic and professional goals.  
 
 ## Technologies Used  
 - **React**  
