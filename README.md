@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Personal Kanban Board  
 
 ## Overview  
