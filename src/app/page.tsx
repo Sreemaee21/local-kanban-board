@@ -1,11 +1,3 @@
-// import KanbanBoard from '@/components/KanbanBoard'
-
-// export default function Home() {
-//   return (
-//     // ... existing code ...
-//   )
-// }
-
 import KanbanBoard from '@/components/KanbanBoard';
 
 export default function Home() {
